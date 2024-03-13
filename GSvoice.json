@@ -1487,6 +1487,471 @@
           "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1216836003831091260/Akali_61.jpg"
         }
       ]
+    }, {
+      "Имя чемпиона ENG": "Akshan",
+      "Имя чемпиона RU": "Акшан",
+      "Реплики": [{
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Death3D_105.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это ~~кончает~~ Акшан!",
+          "Триггер": "Смерть",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanE2_cast3D_102.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Использование третьего (E) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanQ_cast3D_119.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Использование первого (Q) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanQ_cast3D_120.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это Акшан обсуждает умения Гарена!",
+          "Триггер": "Использование первого (Q) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanR_cast3D_128.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Использование абсолютного (R) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanR_cast3D_129.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Использование абсолютного (R) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanR_cast3D_130.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Использование абсолютного (R) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanR_cast3D_131.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Использование абсолютного (R) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanW_cast3D_73.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Использование второго (W) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanW_cast3D_74.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Использование второго (W) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanW_OnBuffDeactivate_61.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Выход из второго (W) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanW_OnBuffDeactivate_65.mp3",
+          "Скин": "Обычный",
+          "Текст": "Да-да, это он!",
+          "Триггер": "Выход из второго (W) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_AkshanW_OnBuffDeactivate_66.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Выход из второго (W) умения",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Attack2DGeneral_3.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Attack2DGeneral_10.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Attack2DGeneral_18.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DCamille_57.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом Камилла",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DEzreal_88.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом Эзреаль",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DGeneral_90.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DGeneral_91.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DGeneral_92.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DGeneral_93.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DGeneral_95.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это Акшан посмотрел на счёт новичка в своей команде!",
+          "Триггер": "Первая встреча с чемпионом",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DLucian_110.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом Люциан",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DSentinel_96.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом из Стражи света",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DShadowIsles_109.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с падшим чемпионом",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DSivir_97.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это Акшан встретил ЖеНщИнУ!",
+          "Триггер": "Первая встреча с чемпионом Сивир",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_FirstEncounter3DViego_87.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первая встреча с чемпионом Виего",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Joke3DGeneral_52.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Шутка",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_JokeResponse3DGeneral_139.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Ответ на шутку",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Kill3DGeneral_113.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Убийство",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Kill3DGeneral_117.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это Акшан просит вас улыбнуться <3",
+          "Триггер": "Убийство",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Kill3DPenta_20.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Пентакилл",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DFirst_68.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первый выход с базы",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DFirst_71.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Первый выход с базы",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DFirst_72.mp3",
+          "Скин": "Обычный",
+          "Текст": "Так нечестно! Вам сам Акшан подсказал!",
+          "Триггер": "Первый выход с базы",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_140.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_142.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_143.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_146.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_147.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_149.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_150.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_151.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_152.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_154.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DLong_155.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Длительное передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DStandard_29.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DStandard_30.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DStandard_31.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DStandard_37.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DStandard_38.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DStandard_44.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DStandard_45.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Move2DStandard_46.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Respawn2DGeneral_135.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Возрождение",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Spell3DWPassiveAlly_81_crop.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Воскрешение союзника",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }, {
+          "Ссылка": "./resources/Akshan/Play_vo_Akshan_Taunt3DGeneral_89.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Акшану!",
+          "Триггер": "Воскрешение союзника",
+          "Сплеш-арт": "https://cdn.discordapp.com/attachments/551393044180762635/1217537844156043364/Akshan_0.jpg"
+        }
+      ]
+    }, {
+      "Имя чемпиона ENG": "Alistar",
+      "Имя чемпиона RU": "Алистар",
+      "Реплики": [{
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Death3D_16.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это ~~кончает~~ Алистар!",
+          "Триггер": "Смерть",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Attack2DGeneral_6.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Алистару!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Attack2DGeneral_7.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Алистару!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Attack2DGeneral_9.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Алистару!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Joke3DGeneral_10.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это Алистара потрогали за сосиску!",
+          "Триггер": "Шутка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Move2DStandard_1.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Алистару!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Move2DStandard_2.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Алистару!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Move2DStandard_3.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Алистару!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Move2DStandard_4.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Алистару!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }, {
+          "Ссылка": "./resources/Alistar/Play_vo_Alistar_Taunt3DGeneral_5.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Алистару!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217561634621362246/Alistar_0.jpg"
+        }
+      ]
+    }, {
+      "Имя чемпиона ENG": "Amumu",
+      "Имя чемпиона RU": "Амуму",
+      "Реплики": [{
+          "Ссылка": "./resources/Amumu/Play_vo_Amumu_Death3D_7.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это ~~кончает~~ Амуму!",
+          "Триггер": "Смерть",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217564809197785158/Amumu_0.jpg"
+        }, {
+          "Ссылка": "./resources/Amumu/Play_vo_Amumu_Attack2DGeneral_10.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Амуму!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217564809197785158/Amumu_0.jpg"
+        }, {
+          "Ссылка": "./resources/Amumu/Play_vo_Amumu_Attack2DGeneral_11.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Амуму!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217564809197785158/Amumu_0.jpg"
+        }, {
+          "Ссылка": "./resources/Amumu/Play_vo_Amumu_Attack2DGeneral_12.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Амуму!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217564809197785158/Amumu_0.jpg"
+        }, {
+          "Ссылка": "./resources/Amumu/Play_vo_Amumu_Attack2DGeneral_14.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Амуму!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217564809197785158/Amumu_0.jpg"
+        }, {
+          "Ссылка": "./resources/Amumu/Play_vo_Amumu_Joke3DGeneral_9.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Амуму!",
+          "Триггер": "Шутка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217564809197785158/Amumu_0.jpg"
+        }, {
+          "Ссылка": "./resources/Amumu/Play_vo_Amumu_Taunt3DGeneral_8.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Амуму!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217564809197785158/Amumu_0.jpg"
+        }
+      ]
     }
   ]
 }
