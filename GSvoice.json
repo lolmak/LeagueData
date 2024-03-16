@@ -1952,6 +1952,322 @@
           "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1217564809197785158/Amumu_0.jpg"
         }
       ]
+    }, {
+      "Имя чемпиона ENG": "Anivia",
+      "Имя чемпиона RU": "Анивия",
+      "Реплики": [{
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Death3D_10.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это ~~кончает~~ Анивия!",
+          "Триггер": "Смерть",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Attack2DGeneral_0.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Attack2DGeneral_1.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Attack2DGeneral_4.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Attack2DGeneral_5.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Attack2DGeneral_7.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Attack2DGeneral_9.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Joke3DGeneral_15.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Joke3DGeneral_16.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_21.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_22.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_23.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_24.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_26.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_28.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_32.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_33.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это Анивии встретила Ясуо!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Move2DStandard_34.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Taunt3DGeneral_35.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_Anivia_Taunt3DGeneral_36.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218625301786001500/Anivia_0.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Attack2DGeneral_1.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Attack2DGeneral_6.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Attack2DGeneral_7.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Attack2DGeneral_9.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Attack2DGeneral_10.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_FirstEncounter3DAshe_53.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Первая встреча с Эш",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_FirstEncounter3DLissandra_57.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Первая встреча с Лиссандра",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_FirstEncounter3DSejuani_56.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Первая встреча с Седжуани",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Joke3DGeneral_15.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Шутка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Joke3DGeneral_16.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, это Анивия откладывает яйцо!",
+          "Триггер": "Шутка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Move2DStandard_22.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Move2DStandard_23.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Move2DStandard_25.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Taunt3DGeneral_31.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }, {
+          "Ссылка": "./resources/Anivia/Play_vo_AniviaSkin05_Taunt3DGeneral_32.mp3",
+          "Скин": "Анивия Черная Стужа",
+          "Текст": "Верно, эта фраза принадлежит Анивии!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218630434720841758/Anivia_5.jpg"
+        }
+      ]
+    }, {
+      "Имя чемпиона ENG": "Annie",
+      "Имя чемпиона RU": "Энни",
+      "Реплики": [{
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Death3D_11.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это ~~кончает~~ Энни!",
+          "Триггер": "Смерть",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_AnnieR_cast3D_42.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Использование абсолютного (R) умения",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_AnnieR_cast3D_45.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Использование абсолютного (R) умения",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Attack2DGeneral_18.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, это Энни съела вареники!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Attack2DGeneral_21.mp3",
+          "Скин": "Обычный",
+          "Текст": "...А потом тебе кранты! Кхм.. Да.. Это Энни!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Attack2DGeneral_22.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Attack2DGeneral_24.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Атака",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Joke3DGeneral_15.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Шутка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Joke3DGeneral_16.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Шутка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Move2DStandard_0.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Move2DStandard_1.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Move2DStandard_4.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Move2DStandard_5.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Передвижение",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Taunt3DGeneral_12.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Taunt3DGeneral_13.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }, {
+          "Ссылка": "./resources/Annie/Play_vo_Annie_Taunt3DGeneral_14.mp3",
+          "Скин": "Обычный",
+          "Текст": "Верно, эта фраза принадлежит Энни!",
+          "Триггер": "Насмешка",
+          "Сплеш-арт": "https://media.discordapp.net/attachments/551393044180762635/1218636550288572477/Annie_0.jpg"
+        }
+      ]
     }
   ]
 }
